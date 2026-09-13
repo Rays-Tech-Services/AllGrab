@@ -1,0 +1,284 @@
+Ray's Tech Services Software License (RTSSL)
+Version 1.0
+September 12th, 2026
+
+1. Grant of License
+
+Permission is hereby granted, free of charge, to any individual or entity
+obtaining a copy of this software and associated documentation files (the
+"Software"), to use, modify, and distribute the Software, subject to the
+following conditions:
+
+2. Permitted Use
+
+You may use, modify, and distribute this Software for personal projects and
+non-commercial business ventures that do not generate revenue in any form.
+
+You may build upon this Software for personal or non-commercial use, provided
+that you do not violate the restrictions outlined in Section 3.
+
+You may distribute physical copies or hardware containing this Software,
+provided that the amount charged does not exceed the exact documented cost of
+physical materials and/or shipping. Any amount charged must be equal to or
+less than the actual out-of-pocket cost incurred. Charging even one cent
+above the documented cost of materials and/or shipping constitutes a
+commercial transaction and is prohibited without explicit written permission
+from the original authors. Operating at a loss is permitted.
+
+3. License Versioning and Mandatory Upgrades
+
+  a. Current and Future Versions
+
+     This license may be revised and updated by Raymond Newman at any time.
+     Each new version will be assigned a unique version number and
+     publication date and will be made publicly available via the official
+     Ray's Tech Services communication channels or repository. All versions
+     of this license are authored solely by Raymond Newman or under his
+     explicit direction.
+
+  b. Mandatory Upgrade Obligation
+
+     Any individual, entity, or project using, distributing, or building
+     upon Software governed by any version of this license must upgrade to
+     the most current published version of the RTSSL within seven (7)
+     calendar days of that version's public release date.
+
+     Failure to upgrade within this period constitutes a violation of this
+     license and will result in immediate revocation of all rights granted
+     herein until compliance is achieved.
+
+     "Upgrading" means replacing the license file in the Software's
+     repository or distribution with the new version and ensuring all
+     documentation, notices, and references reflect the updated version
+     number.
+
+  c. Contributor Agreement — Automatic License Migration
+
+     By submitting any contribution to Software governed by this license —
+     including but not limited to code, documentation, assets, bug fixes,
+     translations, or any other material — each contributor irrevocably
+     agrees that:
+
+       - Their contributions are provided under the current version of the
+         RTSSL at the time of submission, AND
+       - Their contributions will automatically and immediately fall under
+         any future version of the RTSSL upon that version's public
+         release, without requiring any further action, consent, or
+         notification from the contributor.
+       - No contributor may restrict, withdraw, or place additional
+         conditions on their contributions in response to a new version
+         of this license.
+       - This agreement is binding on all past, present, and future
+         contributions to any Software under this license, from the
+         moment of first contribution.
+
+     Contributors who do not agree to these terms must not submit
+     contributions to Software governed by this license.
+
+  d. No Version Pinning
+
+     You may not pin, lock, or otherwise restrict Software governed by
+     this license to an older version of the RTSSL. Distributing,
+     deploying, or publishing Software under any version of the RTSSL
+     other than the most current published version — beyond the seven
+     (7) day grace period — is a violation of this license.
+
+4. Business Use
+
+  a. Small Business Use (Fewer than 100 Employees)
+
+     Any business, organization, or entity with a total headcount of fewer
+     than 100 employees — including full-time, part-time, contract, and
+     any other compensated workers — may use this Software at no charge,
+     subject to all other terms and restrictions of this license. The
+     prohibition on selling, monetizing, or profiting from the Software
+     remains fully in effect regardless of business size.
+
+     Employee count is determined at the time of deployment and must be
+     re-evaluated at each anniversary of first use. If at any point the
+     organization's headcount meets or exceeds 100 employees, the
+     organization must immediately come into compliance with Section 4(b).
+
+  b. Large Business Use (100 or More Employees)
+
+     Any business, organization, or entity with a total headcount of 100
+     or more employees must pay a licensing fee to Ray's Tech Services
+     as a condition of use. The fee is calculated as follows:
+
+       - $0.10 USD (ten cents) per device on which the Software is
+         installed or running, OR
+       - $0.10 USD (ten cents) per user who accesses or interacts with
+         the Software in any capacity,
+
+     whichever of the two figures is higher. Both counts must be assessed
+     honestly and in good faith, and must be re-evaluated and paid on an
+     annual basis from the date of first deployment.
+
+     Payment must be made exclusively in Bitcoin (BTC) at the current
+     market equivalent of the calculated USD fee at the time of payment.
+     Payment must be directed to Ray's Tech Services via the contact
+     information provided in Section 12. Proof of payment must be retained
+     by the paying organization and made available to Raymond Newman upon
+     request.
+     Payment is due on the first (1st) day of each calendar month, based
+     on the device and user counts assessed at that time. Failure to submit
+     payment by the first of the month constitutes a violation of this license
+     and will result in immediate revocation of all rights granted herein until
+     payment is received and confirmed.
+
+     All network transaction fees, including but not limited to Bitcoin network
+     fees and any associated transfer costs, are the sole responsibility of the
+     paying organization and must be covered in full such that Ray's Tech Services
+     receives the exact calculated USD-equivalent amount in Bitcoin with no deductions.
+     Underpayment due to network fees does not constitute valid payment.
+
+     Use of the Software by an organization subject to this section without
+     payment constitutes a violation of this license and will result in
+     immediate revocation of all rights granted herein.
+
+  c. Headcount Calculation
+
+     For the purposes of this license, employee headcount includes all
+     individuals who perform work for the organization in exchange for any
+     form of compensation, including but not limited to salary, hourly
+     wages, equity, or contract payments. Volunteers, unpaid interns, and
+     non-compensated contributors are excluded from headcount calculation.
+     Parent companies, subsidiaries, and affiliated entities are each
+     evaluated independently unless they share unified IT infrastructure,
+     in which case the combined headcount applies.
+
+5. Restricted Use
+
+You may not use this Software for any commercial purpose, including but not
+limited to:
+
+  - Selling, licensing, or otherwise monetizing the Software.
+  - Using the Software as part of a product, service, or business that
+    generates revenue.
+  - Using the Software in any company, organization, or personal project that
+    is intended to generate revenue, either directly or indirectly.
+  - Charging any amount above the exact documented cost of physical materials
+    and/or shipping when distributing physical copies or hardware containing
+    this Software.
+
+These restrictions apply regardless of business size. Payment of the fee
+described in Section 4(b) grants the right to use the Software within the
+organization but does not grant any right to sell, sublicense, or monetize
+the Software itself.
+
+If your use case involves monetization or exceeds the cost-recovery
+distribution terms outlined in Section 2, you must obtain explicit written
+permission from the original authors of the Software.
+
+6. Copyleft — Modified and Combined Works
+
+This license carries a strict copyleft obligation. If you modify this
+Software, add files to it, combine it with other code, or incorporate it
+into a larger work in any form, the following conditions apply in full:
+
+  - The entire resulting work, including all modifications, additions, and
+    any files added to or combined with the Software, must be licensed
+    exclusively under the current version of the Ray's Tech Services
+    Software License (RTSSL).
+  - You may not apply any other license, in whole or in part, to any
+    component of the resulting work that incorporates this Software.
+  - All source code for the resulting work, including modifications and
+    additions, must be made freely and publicly available under the terms
+    of this license.
+  - This obligation is not limited to direct modifications. Any work that
+    links to, wraps, extends, or is otherwise derived from this Software
+    is considered a derivative work and is subject to these terms.
+
+7. Network Copyleft — Software as a Service
+
+The copyleft obligations defined in Section 6 are explicitly triggered by
+network use. If you modify this Software, or incorporate it into a larger
+work, and make that work available to any third party over a network —
+including but not limited to web applications, APIs, SaaS platforms,
+hosted services, or any other form of remote access — the following
+conditions apply:
+
+  - You must make the complete corresponding source code of the modified
+    or combined work available to all users interacting with it over the
+    network, at no charge.
+  - This source code must be provided under the terms of this license
+    (RTSSL) and must be made available via a prominent and accessible
+    means, such as a public repository link or an in-application notice.
+  - The act of running modified Software on a server and allowing third
+    parties to interact with it constitutes distribution under this
+    license, regardless of whether any files are transferred to the
+    end user.
+  - This provision applies even if the Software is used internally within
+    an organization and accessed by members of that organization over
+    a network.
+
+8. Exemption — Ray's Tech Services and Raymond Newman Ventures
+
+Ray's Tech Services, and any other current or future ventures, projects,
+products, or entities operated, owned, or authorized by Raymond Newman, are
+fully and unconditionally exempt from all restrictions set forth in this
+license, including but not limited to the commercial use restrictions defined
+in Section 5, the copyleft and network copyleft obligations defined in
+Sections 6 and 7, the business licensing fees defined in Section 4, and the
+mandatory upgrade obligations defined in Section 3 — provided that such
+exemption is explicitly invoked by Raymond Newman.
+
+This exemption may be granted, modified, or revoked solely at the discretion
+of Raymond Newman, and does not extend to any third party without express
+written authorization from Raymond Newman.
+
+9. Third-Party Exemptions
+
+Raymond Newman ("the Owner") reserves the right to grant exemptions from any
+or all terms of this license to specific individuals, entities, projects, or
+use cases. Such exemptions are subject to the following conditions:
+
+  - All exemptions must be granted via explicit written consent, physically
+    or digitally signed by Raymond Newman.
+  - An exemption document must clearly identify the exempted party, the
+    specific terms being waived, and the scope and duration of the exemption.
+  - All exemptions are revocable at any time, for any reason, at the sole
+    discretion of Raymond Newman, effective immediately upon written notice
+    to the exempted party.
+  - Revocation of an exemption does not affect any obligations already
+    incurred by the exempted party prior to the revocation date.
+  - No exemption may be transferred, sublicensed, or assigned to any other
+    party without a new written and signed exemption document issued by
+    Raymond Newman.
+
+10. Derivative Works & Attribution
+
+Any project that stems from this Software must also be licensed under the
+current version of the Ray's Tech Services Software License (RTSSL) and
+adhere to the same terms and conditions as defined in this license,
+including Sections 6 and 7, and is subject to the mandatory upgrade
+obligations defined in Section 3.
+
+If you use this Software in any project, you must include clear attribution,
+stating:
+
+  "Powered by [Software Name]"
+
+This notice must be visible in the user interface, documentation, or an
+appropriate location where end users can see it.
+
+11. Liability Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+12. Enforcement
+
+Violation of this license may result in revocation of your rights to use,
+modify, or distribute the Software.
+
+13. Contact
+
+For permission requests, exemption inquiries, licensing fee payments, or
+commercial use, please contact:
+ray@raystechservices.com
